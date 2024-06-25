@@ -1,0 +1,2 @@
+export const LABELS_PAGINATION = 10;
+export const ATTRIBUTES_PAGINATION = 10;
